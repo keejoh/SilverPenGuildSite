@@ -1,0 +1,163 @@
+/*
+Authors: Sameer Karali,KeeJoh O'Hearon, and Curtis Siler
+Date: 12/9/2018
+Description: Writing Services/Forum Website made for client (Curtis Siler) 
+*/
+		.heading{
+			font-size: 28px;
+			font-weight: bold;
+			margin: 10px 0px 20px 20px;
+		}
+		.description{
+			background-color: #f9f9f9;
+			margin-top: 20px;
+			margin-bottom:15px;
+			padding: 20px;
+			color: #999999;
+			font-size: 18px;
+			
+
+		}
+		.description1{
+			margin-top: 30px;
+		}
+		.navbar-nav .nav-item{
+			padding: 10px;
+		}
+		.navbar a{
+			color:RED;
+			margin-left: 30px;
+			font-size: 16px;
+			font-weight: 500;
+		}
+		.navbar a:hover{
+			color:blue;
+		}
+		 #internallink:hover{
+				color:blue;
+		}
+		#internallink{
+				color:RED;
+		}
+		.internallinks:hover{
+				color:blue;
+		}
+		.internallinks{
+				color:red;
+		}
+		.contactus > li > a{
+				color:darkblue;
+		}	
+		
+		#nav-list ul li{
+		
+			display: inline-block;
+		}
+		.quotation{
+			padding:20px 50px 20px 50px;
+			text-align: center;
+		}
+		 ol li{
+			padding-bottom: 20px;
+		}
+		.log-img{
+			height: 70px;
+			width: 70px;
+		}
+		.p0 {
+		  padding: 0 !important;
+		}
+		#collapse_btn{
+			float: left;
+			border: 1px solid black;
+			color: black;
+		} 
+		.sidebar{
+			background-color: #929292;
+			height: 100%;
+			margin-bottom:15px;
+		}
+		.sidebar ul li{
+			list-style: none;
+			padding-top: 20px;
+		}
+		.sidebar a{
+			color: #f3f3f3;
+		}
+		.headers{
+			color: white; 
+			font-size:25px;
+		}
+		.firstLine{
+			font-weight:bold;
+		}
+		footer{
+			font-size:small;
+			font-style:italic;
+			text-align:center;
+			margin-bottom:15px;
+		}
+		table,td{
+			border:solid 1px;
+			color:black;
+			padding:15px;
+		}
+		.entry1{
+		
+			font-size:115%;
+			
+		}
+		.formClass{	
+			width:80%;
+			margin-right:auto;
+			margin-left:auto;
+			background-color: #f9f9f9;
+			margin-top: 20px;
+			margin-bottom:15px;
+			padding: 20px;
+			color: #999999;
+			font-size: 18px;
+		}
+		.subs{
+			border:none;
+		}
+		.submits{
+			border:solid .5px;
+			font-weight:bold;
+			padding:5px;
+		}
+		.forumtable{
+			border:solid .5px;
+			
+			padding:5px;
+		}
+		
+		.formheading{
+			width:80%;
+			margin-right:auto;
+			margin-left:auto;
+			font-size: 28px;
+			font-weight: bold;
+	
+		}
+		form{
+			color:blue;
+			padding:15px;
+		}
+		.error{
+					width:80%;
+			margin-right:auto;
+			margin-left:auto;
+			font-size: 28px;
+			font-weight: bold;	
+			
+		}
+		.contactus{
+		
+		color: white;
+		}
+		.specific{
+			color: white;
+		}
+			
+			
